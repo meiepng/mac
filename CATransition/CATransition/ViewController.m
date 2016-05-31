@@ -2,7 +2,7 @@
 //  ViewController.m
 //  CATransition
 //
-//  Created by 李泽鲁/meipeng on 14/12/12.
+//  Created by 李泽鲁/ on 14/12/12.
 //  Copyright (c) 2014年 李泽鲁. All rights reserved.
 //
 
@@ -42,7 +42,7 @@ typedef enum : NSUInteger {
 
 - (void)viewDidLoad {
     _subtype = 0;
-    NSLog(@"12");
+    
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [self addBgImageWithImageName:IMAGE2];
